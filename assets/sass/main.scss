@@ -1113,7 +1113,7 @@ $size-header-pad: 4em;
 		}
 
 		.image.avatar {
-			margin: 0 0 (_size(element-margin) * 0.7) 0;
+			margin: 0 0 (_size(element-margin) ) 0;
 			width: 8em;
 		}
 	}
